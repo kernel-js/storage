@@ -1,0 +1,28 @@
+{
+  "name": "@kernel/storage",
+  "description": "Web Storage for Kernel Framework",
+  "main": "dist/index.js",
+  "author": "Gus <gus@brid-it.com>",
+  "license": "MIT",
+  "keywords": [
+    "kernel",
+    "framework",
+    "laravel",
+    "browser",
+    "cookies",
+    "cookie",
+    "client",
+    "storage",
+    "localstorage",
+    "sessionstorage",
+    "cache"
+  ],
+  "homepage": "https://github.com/kernel-js/storage",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
